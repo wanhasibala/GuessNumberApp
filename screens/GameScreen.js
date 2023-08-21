@@ -116,6 +116,7 @@ const styles = StyleSheet.create({
   screen: {
     flex: 1,
     padding: 24,
+    alignItems: 'center',
   },
   buttonsContainer: {
     gap: 10,
